@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name I2C-Bus-Board-rescue)(type Legacy)(uri "${KIPRJMOD}/I2C Bus Board-rescue.lib")(options "")(descr ""))
+)
