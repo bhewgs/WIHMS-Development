@@ -10,7 +10,9 @@ Moisture Sensor Custom Board: https://github.com/bhewgs/WIHMS-Development/tree/m
 Data Consolidation Board Design Files: https://github.com/bhewgs/WIHMS-Development/tree/master/Version%202%20SOIC8%20TCA9517  
   
   
-Blake Hewgill  
+Blake Hewgill, MS Student
+Jeff Frolik, EBE Department Chair
+Ryan McGinnis, Faculty Advisor
 M-Sense Research Group: https://www.uvm.edu/~rsmcginn/  
 Sensor Networks and Wireless Laboratory   
 Direct correspondence to Blake Hewgill: bhewgill94@gmail.com
